@@ -1,11 +1,35 @@
 ---
-title: "emmacastiblanco"
+about:
+  template: jolla 
+  id: about-block
+  image: "img/emma.jpeg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/emmacastiblanco
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/emma-castiblanco
+    - icon: envelope
+      text: Email
+      href: "mailto:emma.castiblanco@colostate.edu"  
 ---
 
-This is a Quarto website.
+::: {#about-block}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# About Emma
 
-```{r}
-1 + 1
-```
+I am a graduate of Haverford College (class of 2021), having majored in Biology and minored in Environmental Studies. Currently, I am a Master's Student in the Department of Horticulture and Landscape Architecture at Colorado State University, studying Urban Forestry.
+
+# Education
+
+My research investigates the relationship between urban forestry, specifically street trees, and public transportation.
+
+# Experience
+
+After graduating college, I completed a service term with Green Iowa Americorps in Linn County's Sustainability Department. During my service term, I worked with local community organizations to develop educational events and environmental engagement opportunities.
+
+After my Americorps service term, I was a researcher in the Environmental Design Lab in the Department of Planning and Landscape Architecture at UW-Madison. As a researcher, I worked on qualatiative research, investigating the relationship between mental health and the university's campus.
+
+Please feel free to [reach out](mailto:emma.castiblanco@colostate.edu) if you want to chat trees, sustainability or discuss potential projects.

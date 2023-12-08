@@ -1,0 +1,47 @@
+---
+---
+---
+
+# Present Research
+
+## Street Trees Help Public Transit: So How Can Cities Get More Trees?
+
+<img src="banner_street_trees.png" style="height: 100%; width: 100%; object-fit;"/>
+
+As climate change brings unprecedented changes to our urban landscape, both mitigating and adapting our cities is paramount in the survival and wellbeing of urban communities. While many politicians and old-school environmentalists believe planting millions, and even billions, of trees will be enough to counteract CO2 emissions, trees alone will not be able to rehabilitate the current damage and future damage of CO2 emissions on our planet. Trees, however, can mitigate the immediate effects of climate change in our cities, such as by curbing urban heat islands and air pollution. Additionally, trees have the potential to address current activities exacerbating climate change, such as encouraging the transition from personal vehicles to public transportation. Numerous studies have found the benefits of trees being incorporated into the urban infrastructure, improving the health, wellbeing and experience of urbanites navigating their city. If urban foresters and public transportation were able to integrate trees into public bus projects, current bus commuters could appreciate the positives of trees in their lives, as well as encourage personal vehicle commuters to choose public transportation. When cities move away from prioritizing the personal vehicle, they are reducing emissions, noise pollution and hardscape as well as promoting a culture of connectivity and sustainability. Currently, the worlds of urban forestry and public transportation engineering are divided, and often including trees into public transportation projects is not being prioritized or even seen as feasible. My study would investigate the hurdles to integrating trees into public bus routes, stops and future projects.
+
+## CSU Arboretum
+
+<img src="arboretum.png" style="height: 100%; width: 100%; object-fit;"/>
+
+I have been helping create a interactive web map of the Heritage Arboretum at CSU, using ESRI ArcGIS online and ESRI Experience Builder.
+
+------------------------------------------------------------------------
+
+# Past Research
+
+## Long-term trends in nitrate and chloride in streams in an exurban watershed
+
+Published 2023 in the Journal of Urban Ecosystems
+
+<img src="watershed.png" style="height: 100%; width: 100%; object-fit;"/>
+
+**Abstract**
+
+The lines between natural areas and human habitats have blurred as urbanization continues, creating a need for the study of ecosystems at all levels of development. This need is particularly acute for exurban environments, which have low population density but are rapidly changing and have a dynamic mix of natural and human-dominated features. We examined long-term (1998--2018) trends in nitrate and chloride concentrations and fluxes in forested and exurban streams in Baltimore County, Md USA. Concentrations and fluxes of nitrate and chloride were an order of magnitude higher in the exurban stream than the forested stream and were increasing even though snowfall and road salt use did not increase over the study period. In the forested stream, concentrations and fluxes of chloride increased from 1998 to 2008, but decreased from 2008 to 2018 due to unquantified factors. Concentrations of nitrate decreased in the forested stream, likely due to decreases in atmospheric deposition. These decreases in atmospheric deposition, and efforts to reduce fertilizer use by county governments, do not appear to have affected nitrate concentrations and fluxes in the exurban watershed. Any efforts to reduce the concentrations and fluxes of chloride and nitrate in exurban streams will likely benefit substantially from further understanding of the mechanisms underlying the temporal patterns.
+
+[Castiblanco, E.S., Groffman, P.M., Duncan, J. *et al.* Long-term trends in nitrate and chloride in streams in an exurban watershed. *Urban Ecosyst* **26**, 831--844 (2023). https://doi.org/10.1007/s11252-023-01340-0](https://assets.researchsquare.com/files/rs-1220673/v1/0774b329-98ff-4689-90d0-491026b5600f.pdf?c=1697482298)
+
+## Quorum sensing signal disrupts viral infection dynamics in the coccolithophore *Emiliania huxleyi*
+
+Published 2023 in the Journal of Aquatic Microbial Ecology
+
+<img src="emh.png" style="height: 100%; width: 100%; object-fit;"/>
+
+**Abstract**
+
+Viruses that infect phytoplankton are abundant in all regions of the global ocean. Despite their ubiquity, little is understood regarding how biotic interactions can alter virus infection success as well as the fate of phytoplankton hosts. In previous work, the bacterially derived compound 2-heptyl-4-quinolone (HHQ) has been shown to protect the cosmopolitan coccolithophore *Emiliania huxleyi* from virus-induced mortality. The present study explores the potential mechanisms through which protection is conferred. Using a suite of transmission electron microscopy and physiological diagnostic staining techniques, we show that when *E. huxleyi* is exposed to HHQ, viruses can gain entry into cells but viral replication and release is inhibited. These findings are supported by a smaller burst size, as well as lower infectious and total virus production when the host is treated with nanomolar concentrations of HHQ. Additionally, diagnostic staining results indicate that programmed cell death markers commonly associated with viral infection are not activated when infected *E. huxleyi* are exposed to HHQ. Together, these results suggest that the ability of HHQ to inhibit infectious viral production protects the alga not from getting infected, but from cell lysis. This work identifies a new mechanistic role of bacterial quorum sensing molecules in mediating viral infections in marine microbial systems.
+
+[Harvey EL, Yang H, Castiblanco E, Coolahan M and others (2023) Quorum sensing signal disrupts viral infection dynamics in the coccolithophore Emiliania huxleyi. Aquat Microb Ecol 89:75-86. https://doi.org/10.3354/ame01998](https://www.int-res.com/articles/ame_oa/a089p075.pdf)
+
+*Images have been created using Dall-E*

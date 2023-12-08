@@ -1,19 +1,65 @@
+# website settings
+website:
+  title: "Emma Castiblanco"                                # Your name
+  description: "Student of Urban Forestry"   # A brief slogan (optional)
+  image: img/treestreet.png
+  
+  favicon: img/treestreet.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/treestreet.png
+    
+    # your sub-pages
+    left:
+      - text: "Research"
+        href: projects/project.qmd
+      - text: "CV"
+        href: cv/cv.qmd
+   
+    
+    # your social media handles
+    right:
+      - icon: github
+        text: Github
+        href: https://github.com/emmacastiblanco
+      - icon: linkedin
+        href: https://www.linkedin.com/in/emma-castiblanco
+      - icon: envelope
+        aria-label: email
+        href: "mailto:emma.castiblanco@colostate.edu" 
+      
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+
+
 project:
   type: website
+  output-dir: docs
 
-website:
-  title: "emmacastiblanco"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
+    fontsize: 1.1em
+    theme: 
+      - Minty
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
